@@ -1,0 +1,28 @@
+#column1 {
+  height: 120px;
+  width: 100%;
+  background-color: black;
+  position: fixed;
+}
+
+h2 {
+  text-align:center;
+}
+
+navbar .menu {
+  display:flex;
+  list-style:none;
+}
+
+#sign {
+  position: fixed;
+}
+
+.row-margin {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+p {
+  text-align:justify;
+}
